@@ -13,7 +13,7 @@ Text-based C++ calculator created with Vscode (Visual Studio Code).
 
 # Technologies 
 
-Project is created with:
+### Project is created with:
 
 * C++
 * Vscode (Visual Studio Code) 
