@@ -28,7 +28,5 @@ cout<<"Welcome to the leap year calculator."<<endl;
 cout<<"Please Enter a Year"<<endl;
 cin>>year;
 
-
-    
 return 0;
 } 
